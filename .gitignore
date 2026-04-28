@@ -1,0 +1,13 @@
+# HVE Design Thinking ephemeral artifacts (session-specific, not for version control)
+.copilot-tracking/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/.ropeproject
+*.swp
