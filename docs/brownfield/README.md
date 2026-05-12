@@ -40,10 +40,9 @@ The brownfield scaffold adds a **System Discovery Phase** before Design Thinking
 │               PHASE 0: SYSTEM DISCOVERY (Brownfield only)       │
 │  Understand the existing system before designing its future     │
 │                                                                 │
-│  0a. Codebase & Architecture Inventory                          │
+│  0a. System Inventory (components, users, integrations)         │
 │  0b. Technical Debt & Pain Point Mapping                        │
-│  0c. Existing User Journey Documentation                        │
-│  0d. Integration & Dependency Mapping                          │
+│  0c. Integration & Dependency Constraints                       │
 ├─────────────────────────────────────────────────────────────────┤
 │                    PROBLEM SPACE (Methods 1-3)                  │
 │  Discover real problems — anchored in the existing system       │
