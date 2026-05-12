@@ -80,6 +80,13 @@ mkdir -p .copilot-tracking/dt/my-brownfield-project
 - **Greenfield:** See [docs/reference.md](docs/reference.md) for a complete reference of all DT Coach agents, prompts, and instructions.
 - **Brownfield:** See [docs/brownfield/reference.md](docs/brownfield/reference.md) for brownfield-specific agents, prompts, and artifact templates.
 
+## Next Step: Research, Plan, Implement, Review (RPI)
+
+After the Design Thinking workshop, the next step is the **RPI workflow** from HVE Core — transforming your validated DT outputs into working software.
+
+- **Greenfield:** See [docs/rpi-guide.md](docs/rpi-guide.md) for the post-DT RPI workflow.
+- **Brownfield:** See [docs/brownfield/rpi-guide.md](docs/brownfield/rpi-guide.md) for the brownfield-specific migration-focused RPI workflow.
+
 ## Project Structure
 
 ```
@@ -90,11 +97,13 @@ dt-project/
 │   ├── setup-guide.md         # Greenfield: step-by-step installation & setup
 │   ├── workshop-guide.md      # Greenfield: how to run the 9-method DT workshop
 │   ├── reference.md           # Greenfield: agents, prompts, instructions reference
+│   ├── rpi-guide.md           # Greenfield: post-DT Research, Plan, Implement, Review
 │   ├── brownfield/
 │   │   ├── README.md          # Brownfield scaffold overview
 │   │   ├── setup-guide.md     # Brownfield: setup including System Discovery Phase
 │   │   ├── workshop-guide.md  # Brownfield: 9-method guide adapted for existing systems
-│   │   └── reference.md       # Brownfield: agents, prompts, and artifact templates
+│   │   ├── reference.md       # Brownfield: agents, prompts, and artifact templates
+│   │   └── rpi-guide.md       # Brownfield: post-DT migration-focused RPI workflow
 │   └── learnings/             # Accumulated learnings from workshops (greenfield + brownfield)
 │       └── README.md          # Index of learnings
 └── .copilot-tracking/         # (git-ignored) Ephemeral DT session artifacts

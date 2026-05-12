@@ -384,8 +384,11 @@ Same prompts as the greenfield scaffold:
 /dt-figma-export
 
 # Hand off to implementation
-# Use the "Hand off to RPI" button in DT Coach
+# Use the "Hand off to RPI" button in DT Coach, or:
+/dt-handoff-implementation-space
 ```
+
+After running `/dt-handoff-implementation-space`, proceed to the **brownfield RPI workflow** — see [docs/brownfield/rpi-guide.md](./rpi-guide.md) for the migration-focused Research, Plan, Implement, Review guide.
 
 ---
 

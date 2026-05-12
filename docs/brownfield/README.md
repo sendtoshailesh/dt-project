@@ -102,6 +102,7 @@ mkdir -p .copilot-tracking/dt/my-brownfield-project
 | [Setup Guide](./setup-guide.md) | Step-by-step setup including System Discovery Phase |
 | [Workshop Guide](./workshop-guide.md) | Brownfield-adapted 9-method DT framework |
 | [Reference](./reference.md) | Brownfield-specific agents, prompts, and artifact templates |
+| [RPI Guide](./rpi-guide.md) | Post-DT migration-focused Research, Plan, Implement, Review workflow |
 
 ---
 
@@ -115,11 +116,13 @@ dt-project/
 │   ├── setup-guide.md              # Greenfield setup
 │   ├── workshop-guide.md           # Greenfield workshop guide
 │   ├── reference.md                # Greenfield reference
+│   ├── rpi-guide.md                # Greenfield post-DT RPI workflow
 │   ├── brownfield/
 │   │   ├── README.md               # This file
 │   │   ├── setup-guide.md          # Brownfield setup (System Discovery + DT)
 │   │   ├── workshop-guide.md       # Brownfield-adapted 9-method DT guide
-│   │   └── reference.md            # Brownfield agents, prompts, and artifacts
+│   │   ├── reference.md            # Brownfield agents, prompts, and artifacts
+│   │   └── rpi-guide.md            # Brownfield post-DT migration RPI workflow
 │   └── learnings/
 │       └── README.md               # Learnings index (greenfield + brownfield)
 └── .copilot-tracking/              # (git-ignored) ephemeral session artifacts

@@ -214,6 +214,8 @@ DT Coach tracks these transitions in the coaching state and helps you navigate t
 ### Handing Off to Development
 Use the **"Hand off to RPI"** button in DT Coach, or invoke the task-researcher agent directly. This transitions your validated Design Thinking outputs into the Research → Plan → Implement workflow.
 
+See [docs/rpi-guide.md](./rpi-guide.md) for a step-by-step guide to the post-DT RPI workflow.
+
 ---
 
 ## Progressive Hint Engine
